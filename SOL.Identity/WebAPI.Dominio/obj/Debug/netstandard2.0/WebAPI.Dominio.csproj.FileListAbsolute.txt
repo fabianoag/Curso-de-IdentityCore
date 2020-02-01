@@ -1,0 +1,8 @@
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\bin\Debug\netstandard2.0\WebAPI.Dominio.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\bin\Debug\netstandard2.0\WebAPI.Dominio.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\bin\Debug\netstandard2.0\WebAPI.Dominio.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.csprojAssemblyReference.cache

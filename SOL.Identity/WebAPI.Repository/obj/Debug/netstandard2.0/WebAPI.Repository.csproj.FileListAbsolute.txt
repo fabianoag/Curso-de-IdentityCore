@@ -1,0 +1,11 @@
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\bin\Debug\netstandard2.0\WebAPI.Repository.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\bin\Debug\netstandard2.0\WebAPI.Repository.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\obj\Debug\netstandard2.0\WebAPI.Repository.csprojAssemblyReference.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\obj\Debug\netstandard2.0\WebAPI.Repository.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\obj\Debug\netstandard2.0\WebAPI.Repository.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\bin\Debug\netstandard2.0\WebAPI.Repository.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\bin\Debug\netstandard2.0\WebAPI.Dominio.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\bin\Debug\netstandard2.0\WebAPI.Dominio.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\obj\Debug\netstandard2.0\WebAPI.Repository.csproj.CopyComplete
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\obj\Debug\netstandard2.0\WebAPI.Repository.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Repository\obj\Debug\netstandard2.0\WebAPI.Repository.pdb

@@ -1,0 +1,1 @@
+http://localhost:51775/Home/ResetPassword?token=CfDJ8ApK%2FYLkBq5PqxLAQJACdvY7YrCVGtRVFSHG2iWFMZmX%2B6iKkOc6ht0Fqbgd62Ng2QtQ%2BczbtRX4QnezFjITdroOQ%2BQXdNHe%2Bghd8qYAwMCsya1s5UfqRADBfYkjoVImp2gi%2FEk8%2B0Q2RLSABXymfpoAu2gg3xn1hsPAE5iMVQ02VnZy4qUfKA40NGIFufVSsMxn7Em6K2%2FfGB0qEv18%2FDKeq9VqW1oZkPwJg72LW228&email=fabiano@fabiano.com.br

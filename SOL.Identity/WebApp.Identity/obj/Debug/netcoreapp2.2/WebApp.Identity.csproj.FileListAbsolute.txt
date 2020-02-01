@@ -1,0 +1,188 @@
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.json
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+I:\Aula atual Udemy\Asp.NET Identity\Seção 3\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 4\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResetPassword.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResetPassword.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+I:\Aula atual Udemy\Asp.NET Identity\Seção 5\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\TwoFactor.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResetPassword.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\TwoFactor.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
