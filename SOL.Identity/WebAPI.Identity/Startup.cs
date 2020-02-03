@@ -123,11 +123,9 @@ namespace WebAPI.Identity
                 var mappingConfig = new MapperConfiguration(mc=> {
                         mc.AddProfile(new AutoMapperProfile());
                     });
-
-                    IMapper mapper = mappingConfig.CreateMapper();
-
+                    IMapper mapper = mappingConfig.CreateMapper();                    
                     services.AddSingleton(mapper);            
-                    #endregion
+                #endregion
 
                 //Permite usar o recurso CORS.
                 services.AddCors();

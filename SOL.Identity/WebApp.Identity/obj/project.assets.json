@@ -12993,11 +12993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
+      "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
       "projectName": "WebApp.Identity",
-      "projectPath": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
+      "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
       "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-      "outputPath": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebApp.Identity\\obj\\",
+      "outputPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebApp.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

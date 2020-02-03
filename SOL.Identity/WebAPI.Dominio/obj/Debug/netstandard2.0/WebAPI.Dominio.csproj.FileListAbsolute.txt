@@ -6,3 +6,11 @@ I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\D
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.dll
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.pdb
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\bin\Debug\netstandard2.0\WebAPI.Dominio.deps.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\bin\Debug\netstandard2.0\WebAPI.Dominio.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\bin\Debug\netstandard2.0\WebAPI.Dominio.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Dominio\obj\Debug\netstandard2.0\WebAPI.Dominio.pdb

@@ -13025,11 +13025,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Identity\\WebAPI.Identity.csproj",
+      "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Identity\\WebAPI.Identity.csproj",
       "projectName": "WebAPI.Identity",
-      "projectPath": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Identity\\WebAPI.Identity.csproj",
+      "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Identity\\WebAPI.Identity.csproj",
       "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-      "outputPath": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Identity\\obj\\",
+      "outputPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13050,11 +13050,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Dominio\\WebAPI.Dominio.csproj": {
-              "projectPath": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Dominio\\WebAPI.Dominio.csproj"
+            "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Dominio\\WebAPI.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Dominio\\WebAPI.Dominio.csproj"
             },
-            "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Repository\\WebAPI.Repository.csproj": {
-              "projectPath": "I:\\Aula atual Udemy\\Asp.NET Identity\\Seção 6\\SOL.Identity\\WebAPI.Repository\\WebAPI.Repository.csproj"
+            "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Repository\\WebAPI.Repository.csproj": {
+              "projectPath": "C:\\Users\\Fabiano\\Documents\\Upload GitHub\\Curso-de-IdentityCore\\SOL.Identity\\WebAPI.Repository\\WebAPI.Repository.csproj"
             }
           }
         }

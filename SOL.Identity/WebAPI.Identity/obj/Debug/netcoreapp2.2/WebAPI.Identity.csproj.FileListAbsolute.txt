@@ -20,3 +20,10 @@ I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Identity\obj\
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.csproj.CopyComplete
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.dll
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.RazorAssemblyInfo.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.RazorAssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebAPI.Identity\obj\Debug\netcoreapp2.2\WebAPI.Identity.pdb

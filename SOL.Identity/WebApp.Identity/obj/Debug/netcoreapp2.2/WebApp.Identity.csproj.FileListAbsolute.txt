@@ -186,3 +186,42 @@ I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
 I:\Aula atual Udemy\Asp.NET Identity\Seção 6\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.deps.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.runtimeconfig.dev.json
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\bin\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorAssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.input.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.TagHelpers.output.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorCoreGenerate.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResetPassword.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\TwoFactor.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.RazorTargetAssemblyInfo.cs
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.Views.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.dll
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.pdb
+C:\Users\Fabiano\Documents\Upload GitHub\Curso-de-IdentityCore\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\WebApp.Identity.csproj.CopyComplete

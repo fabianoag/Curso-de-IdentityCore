@@ -57,16 +57,23 @@ namespace WebAPI.Identity.Controllers
         {
             try
             {
+                /*Faz consulta por userName de usuário.*/
                 var user = await _userManager.FindByNameAsync(userLogin.UserName);
+                /* Verifica se existe retorno de usuário, se for igual a nulo retorna a 
+                 * mensagem abaixo*/
                 if (user == null) return Unauthorized("Usuário ou senha errada!");
+                /* Verifica se a senha do PasswordHash e igual a senha passada */
                 var result = await _signInManager
                     .CheckPasswordSignInAsync(user, userLogin.Password, false);
 
+                /* Verifica se houve resultado.*/
                 if (result.Succeeded)
                 {
+                    /* Verifica se o NormalizedUserName e igual ao UserName com letras maiuscula.*/
                     var appUser = await _userManager.Users
                         .FirstOrDefaultAsync(u => u.NormalizedUserName == user.UserName.ToUpper());
 
+                    /* Mapeia o retorno do appUser.*/
                     var userToReturn = _mapper.Map<UserDto>(appUser);
 
                     return Ok(new
@@ -91,10 +98,13 @@ namespace WebAPI.Identity.Controllers
         {
             try
             {
+                /* Pesquisa o usuario por UserName.*/
                 var user = await _userManager.FindByNameAsync(userDto.UserName);
-                
+
+                /* Verifica se o usuário existe no banco de dados.*/
                 if (user == null)
                 {
+                    /* Preenche a variavel com os dados passados pelo usuário.*/
                     user = new User
                     {
                         UserName = userDto.UserName,
@@ -102,18 +112,24 @@ namespace WebAPI.Identity.Controllers
                         NomeCompleto = userDto.NomeCompleto
                     };
 
+                    /* Registra o usuário no banco de dados.*/
                     var result = await _userManager.CreateAsync(user, userDto.Password);
+
 
                     if (result.Succeeded)
                     {
                         var appUser = await _userManager.Users
                             .FirstOrDefaultAsync(u => u.NormalizedUserName == user.UserName.ToUpper());
 
+                        /* Gerar token JWT*/
                         var token = GenerateJWTToken(appUser).Result;
+
+                        /* ==> Código abaixo não utilizado. <==*/
                         //var confirmationEmail = Url.Action("ConfirmEmailAddress", "Home",
                         //    new { token = token, email = user.Email }, Request.Scheme);
-
                         //System.IO.File.WriteAllText("confirmationEmail.txt", confirmationEmail);
+
+                        /* Retornar token.*/
                         return Ok(token);
                     }
 
@@ -129,6 +145,7 @@ namespace WebAPI.Identity.Controllers
 
         private async Task<string> GenerateJWTToken(User user)
         {
+            /* Criar */
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
