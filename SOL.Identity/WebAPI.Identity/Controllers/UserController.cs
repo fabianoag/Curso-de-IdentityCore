@@ -21,6 +21,9 @@ using WebAPI.Identity.Dto;
 
 namespace WebAPI.Identity.Controllers
 {
+    /// <summary>
+    /// Nesta class e definida o controle o usuário.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
@@ -30,6 +33,13 @@ namespace WebAPI.Identity.Controllers
         private readonly SignInManager<User> _signInManager;
         private readonly IMapper _mapper;
 
+        /// <summary>
+        /// Método construtor de user que são os usuários.
+        /// </summary>
+        /// <param name="config"></param>
+        /// <param name="userManager"></param>
+        /// <param name="signInManager"></param>
+        /// <param name="mapper"></param>
         public UserController(IConfiguration config,
                               UserManager<User> userManager,
                               SignInManager<User> signInManager,
@@ -44,7 +54,7 @@ namespace WebAPI.Identity.Controllers
 
         // GET: api/User
         [HttpGet]
-        //[AllowAnonymous]//Permita acessa este método.
+        //[AllowAnonymous]//Permita acessa de qualquer usuário.
         public IActionResult Get()
         {
             return Ok(new UserDto());
@@ -52,7 +62,7 @@ namespace WebAPI.Identity.Controllers
 
         // GET: api/login/5        
         [HttpPost("Login")]
-        [AllowAnonymous]//Permita acessa este método.
+        [AllowAnonymous]//Permita acessa de qualquer usuário.
         public async Task<IActionResult> Login(UserLoginDto userLogin)
         {
             try
@@ -93,7 +103,7 @@ namespace WebAPI.Identity.Controllers
 
         // POST: api/Register
         [HttpPost("Register")]
-        [AllowAnonymous]//Permita acessa este método.
+        [AllowAnonymous]//Permita acessa de qualquer usuário.
         public async Task<IActionResult> Register(UserDto userDto)
         {
             try
@@ -143,9 +153,14 @@ namespace WebAPI.Identity.Controllers
             }
         }
 
+        /// <summary>
+        /// Método usado para gerar um token de usuário.
+        /// </summary>
+        /// <param name="user">Recebe um usuário</param>
+        /// <returns>Retorna um token.</returns>
         private async Task<string> GenerateJWTToken(User user)
         {
-            /* Criar */
+            /* Criando uma lista de claim para adiciona no token.*/
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
@@ -153,18 +168,23 @@ namespace WebAPI.Identity.Controllers
                 new Claim("Texto", "123sdffe") 
             };
 
+            // Pesquisar as roles do usuários.
             var Roles = await _userManager.GetRolesAsync(user);
 
+            // Listar roles.
             foreach(var role in Roles)
             {
                 claims.Add(new Claim(ClaimTypes.Role, role));
             }
 
+            //Pegar a chave em "AppSettings:Token".
             var key = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(
                 _config.GetSection("AppSettings:Token").Value));
 
+            //Cria um credencial com a chave.
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256Signature);
 
+            //Opcões de configuração do token criado.
             var tokenDescription = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(claims),
@@ -172,23 +192,127 @@ namespace WebAPI.Identity.Controllers
                 SigningCredentials = creds
             };
 
+            // Instância do "JwtSecurityTokenHandler()".
             var tokenHandler = new JwtSecurityTokenHandler();
 
-            var token = tokenHandler.CreateToken(tokenDescription);
+            //Cria o token.
+            var token = tokenHandler.CreateToken(tokenDescription);            
 
+            //Retorna o token escrito.
             return tokenHandler.WriteToken(token);
         }
 
-        // PUT: api/User/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        // PUT: api/User/UpdateUser/5
+        [HttpPut("UpdateUser/{id}")]
+        public async Task<IActionResult> UpdateUser(int id, UpdateUserDto userDto)
         {
+            try
+            {
+                /* Pesquisa o usuario por UserName.*/
+                var user = await _userManager.FindByIdAsync(id.ToString());
+
+
+                /*===> OBS: A alteração de senha tem que ser feita e um método separado, nela inclui <===
+                       - Usuário.
+                       - Senha atual.
+                       - Nova senha.                 
+                  ===> var result = await _userManager.ChangePasswordAsync(user, userDto.CurrentPassword, userDto.NewPassword); <===
+                */
+
+
+                /* Verifica se o usuário existe no banco de dados.*/
+                if (user != null)
+                {
+                    user.UserName = userDto.UserName;
+                    user.Email = userDto.UserName;
+                    user.NomeCompleto = userDto.NomeCompleto;
+
+                    var result = await _userManager.UpdateAsync(user);
+
+                    if (result.Succeeded)
+                    {
+                        var appUser = await _userManager.Users
+                            .FirstOrDefaultAsync(u => u.NormalizedUserName == user.UserName.ToUpper());
+
+                        /* Gerar token JWT*/
+                        var token = GenerateJWTToken(appUser).Result;
+
+                        /* ==> Código abaixo não utilizado. <== */
+                        //var confirmationEmail = Url.Action("ConfirmEmailAddress", "Home",
+                        //    new { token = token, email = user.Email }, Request.Scheme);
+                        //System.IO.File.WriteAllText("confirmationEmail.txt", confirmationEmail);
+
+                        /* Retornar token.*/
+                        return Ok(token);
+                    }
+                }
+                return NotFound("Usuário não encontrado");
+            }
+            catch (Exception ex)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError,
+                        $"ERROR{ex.Message}");
+            }
         }
 
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        // PUT: api/User/UpdatePasswordUser/5
+        [HttpPut("UpdatePasswordUser/{id}")]
+        public async Task<IActionResult> UpdatePasswordUser(int id, UpdatePasswordUserDto userDto)
         {
+            try
+            {
+                /* Pesquisa o usuario por UserName.*/
+                var user = await _userManager.FindByIdAsync(id.ToString());
+
+                /* Verifica se o usuário existe no banco de dados.*/
+                if (user != null)
+                {
+                    var result = await _userManager.ChangePasswordAsync(user, userDto.CurrentPassword, userDto.NewPassword);
+
+                    if (result.Succeeded)
+                    {                        
+                        return Ok("Password Alterado com sucesso.");
+                    }
+                }
+                return NotFound("Usuário não encontrado");
+            }
+            catch (Exception ex)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError,
+                        $"ERROR{ex.Message}");
+            }
+        }
+
+
+        // DELETE: api/DeleteUser
+        [HttpDelete("DeleteUser")]
+        public async Task<IActionResult> Delete(DeleteUserDto dUser)
+        {
+            /* OBS: Deleta só pelo id não e a forma correta. mais é só um exemplo. */
+            try
+            {
+                /* Pesquisa o usuario por UserName.*/
+
+                var user = await _userManager.FindByIdAsync(dUser.Id.ToString());
+
+                if (user != null)
+                {
+                    var result = await _userManager.DeleteAsync(user);
+
+                    if(result.Succeeded)
+                    {
+                        return Ok("Usuário deletado com sucesso.");
+                    }
+                }
+
+                return NotFound("Usuário não encontrado");
+            }
+            catch (Exception ex)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError,
+                        $"ERROR{ex.Message}");
+            }
+
         }
     }
 }

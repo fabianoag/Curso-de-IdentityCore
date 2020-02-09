@@ -39,14 +39,15 @@ namespace WebAPI.Identity
         public void ConfigureServices(IServiceCollection services)
         {
             /*------------LINHA PADRÃO DO STARTUP-------------
-             * OBS: Esta linha será alterada mais a baixo.
+             * OBS: Esta linha será alterada mais a baixo em:
+             * 'ESTA LINHA PARA A CONFIGURAÇÃO DA ROTA DA WEBAPI'
              */
             //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             #region  ==AREA DE CONFIGURAÇÃO DO IDENTITY==
 
-                #region CONFIGURAÇÃO DO MIGRATION
-                var migrationAssembly = typeof(Startup).GetTypeInfo().Assembly.GetName().Name;
+            #region CONFIGURAÇÃO DO MIGRATION
+            var migrationAssembly = typeof(Startup).GetTypeInfo().Assembly.GetName().Name;
                 services.AddDbContext<Context>(
                     opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"), sql =>
                     sql.MigrationsAssembly(migrationAssembly))
@@ -102,7 +103,7 @@ namespace WebAPI.Identity
                  * das entidades.*/
                 services.AddMvc(options => {
                     /* Aqui ele criar uma politica para toda a ver
-                     * que for chamado um método ele irá autentica.
+                     * que for chamado uma rota dos métodos.
                      * 
                      * OBS = Esta tipo de recurso trabalha muito bem 
                      * com o identity EF.*/
@@ -129,7 +130,7 @@ namespace WebAPI.Identity
 
                 //Permite usar o recurso CORS.
                 services.AddCors();
-                #endregion
+             #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

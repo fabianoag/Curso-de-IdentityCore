@@ -13,6 +13,9 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace WebAPI.Identity.Controllers
 {
+    /// <summary>
+    /// Nesta class e definida os papeis que o usuário tera no sistema.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class RoleController : ControllerBase
@@ -20,6 +23,11 @@ namespace WebAPI.Identity.Controllers
         private readonly RoleManager<Role> _roleManager;
         private readonly UserManager<User> _userManager;
 
+        /// <summary>
+        /// Método construtor de role que são os papeis.
+        /// </summary>
+        /// <param name="roleManager">Injected das configurações de papeis.</param>
+        /// <param name="userManager">Injected das configurações de usuário.</param>
         public RoleController(RoleManager<Role> roleManager, UserManager<User> userManager)
         {
             _roleManager = roleManager;
@@ -27,6 +35,10 @@ namespace WebAPI.Identity.Controllers
         }
 
         // GET: api/Role
+        /// <summary>
+        /// Demostrativos dos Dtos. 
+        /// </summary>
+        /// <returns>Retorna OK.</returns>
         [HttpGet]
         [Authorize(Roles = "ADMIN")]
         public IActionResult Get()
@@ -38,6 +50,11 @@ namespace WebAPI.Identity.Controllers
         }
 
         // GET: api/Role/5
+        /// <summary>
+        /// O teste sem função alguma.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("{id}", Name = "Get")]
         [Authorize(Roles = "GERENTE, VENDEDOR")]
         public string Get(int id)
@@ -46,32 +63,45 @@ namespace WebAPI.Identity.Controllers
         }
 
         // POST: api/Role
+        /// <summary>
+        /// Cadastra uma Role que e um papel.
+        /// </summary>
+        /// <param name="roleDto">Recebe o nome da Role</param>
+        /// <returns>Retorna o resultado</returns>
         [HttpPost("CreateRole")]
         public async Task<IActionResult> CreateRole(RoleDto roleDto)
         {
             try
             {
+                //Resultado
                 var retorno = await _roleManager.CreateAsync( new Role { Name = roleDto.Name});
 
                 return Ok(retorno);
             }
             catch (Exception ex)
             {
+                //Erro
                 return this.StatusCode(StatusCodes.Status500InternalServerError,
                     $"ERROR: {ex.Message}");
             }
         }
 
         // PUT: api/Role/5
+        /// <summary>
+        /// Atualiza os papeis de usuario no sistema.
+        /// </summary>
+        /// <param name="model">Recebe as atualiza de UserRole.</param>
+        /// <returns></returns>
         [HttpPut("UpdateUserRole")]
         public async Task<IActionResult> UpdateUserRoles(UpdateUserRoleDto model)
         {
             try
             {
+                //Verifica se usuário existe.
                 var user = await _userManager.FindByEmailAsync(model.Email);
-
                 if (user != null)
                 {
+                    //Verifica se delete e igual a 'true'.
                     if (model.Delete)
                         await _userManager.RemoveFromRoleAsync(user, model.Role);
                     else
@@ -87,6 +117,7 @@ namespace WebAPI.Identity.Controllers
             }
             catch (Exception ex)
             {
+                //Erro
                 return this.StatusCode(StatusCodes.Status500InternalServerError,
                     $"ERROR: {ex.Message}");
             }
