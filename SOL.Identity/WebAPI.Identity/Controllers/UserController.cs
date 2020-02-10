@@ -8,15 +8,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 
 #region FRAMEWORKS ADICIONADOS
-using Microsoft.EntityFrameworkCore;
-using System.IdentityModel.Tokens.Jwt;
-using AutoMapper;
-using System.Security.Claims;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.IdentityModel.Tokens;
-using WebAPI.Dominio;
-using WebAPI.Identity.Dto;
+    using Microsoft.EntityFrameworkCore;
+    using System.IdentityModel.Tokens.Jwt;
+    using AutoMapper;
+    using System.Security.Claims;
+    using Microsoft.AspNetCore.Authorization;
+    using Microsoft.AspNetCore.Identity;
+    using Microsoft.IdentityModel.Tokens;
+    using WebAPI.Dominio;
+    using WebAPI.Identity.Dto;
 #endregion
 
 namespace WebAPI.Identity.Controllers
