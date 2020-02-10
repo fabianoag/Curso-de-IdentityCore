@@ -181,6 +181,7 @@ namespace WebAPI.Identity.Controllers
             var key = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(
                 _config.GetSection("AppSettings:Token").Value));
 
+
             //Cria um credencial com a chave.
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256Signature);
 
